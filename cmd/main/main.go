@@ -1,6 +1,8 @@
 package main
 
-import "Test/internal/models"
+import (
+	"Test/internal/models"
+)
 
 var ramData models.RAMData
 

@@ -3,6 +3,7 @@ module Test
 go 1.20
 
 require (
+	github.com/davecgh/go-spew v1.1.1
 	gorm.io/driver/sqlite v1.4.4
 	gorm.io/gorm v1.24.5
 )
